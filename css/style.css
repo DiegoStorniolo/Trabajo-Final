@@ -1,0 +1,52 @@
+.carousel-inner {
+  max-height: 150rem;
+}
+h2 {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+
+}
+
+.img {
+    padding: 25px;
+}
+header{ 
+  background-color: darkorange;
+  padding-bottom: 20px;
+}
+
+footer {
+  background-color: darkorange;
+  
+}
+footer p{
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+
+ 
+}
+h3 { font-size: 15px;
+
+}
+
+    #iconos  {
+    font-size: 15px;
+    
+        
+}
+.nav-link {
+  color: darkred;
+  padding: 0 8px;
+
+}
+.inicio {
+font-size: 25px;
+color: darkred;
+}
+
+
+
+
